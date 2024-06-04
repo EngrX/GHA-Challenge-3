@@ -1,3 +1,3 @@
-### GitHub Actions Learning Challenge
+# GitHub Actions Learning Challenge
 
 Creating a reusable workflow
